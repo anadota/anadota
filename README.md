@@ -1,6 +1,6 @@
 ### Hi there 👋
 Ana Dota
-ana.dota.ramos@escola.pr.gov.br
+estudando no Alura
 
 <!--
 **anadota/anadota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
